@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dinah Tuwanje Salonga"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am an Agriculture Policy researcher at [MwAPATA Institute](https://www.mwapata.mw/) in Malawi. My research focuses on economic development, including strategies of improving agriculture productivity; food security and nutrition; improved seed adoption impacts; groundnut aflatoxin; strategies for transforming Malawi's food systems; social cash transfer welfare impacts; impacts of control of goods act under the control of goods act (COGA) in Malawi.
+
+I have a Masters Degree in Agriculture and Applied Economics obtained from [Lilongwe University of Agriculture and Natural Resources](https://luanar.ac.mw/luanar/) (LUANAR) and [University of Pretoria](https://www.up.ac.za/). Currently, I am persuing a PhD in Agriculture and Resource Economics at LUANAR, and I am a resident Research fellow of [CEGA](https://cega.berkeley.edu/) and [PEP](https://www.pep-net.org/) at [University of California](https://www.berkeley.edu/), Berkeley, USA.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
